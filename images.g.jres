@@ -1,0 +1,17 @@
+{
+    "0-qj*eJ$|/:GWom0Sv)A": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEREBEREAAD0//8E9P8AAPQd/fRPRAAA9G39T0REAAD0Df30//8AAPRt/U9ERAAA9B399E9EAAD0//8E9P8AAEBERARERAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Kenny"
+    },
+    "M:C$eXvtzkZUxWg/AId+": {
+        "data": "hwQQABAAAABEREREREREREREREREREREREREREREREREFBEREUFEREQUAAAAQUFERBQAAABBQUREFAAAAEFBREQUAAAAQUFERBQAAABBQUREFAAAAEFBREQUAAAAQUFERBQRERFBQUREREREREREREREFEEUQUREREREEURERERERERERERERA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "donut"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
